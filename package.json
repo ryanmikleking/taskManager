@@ -1,0 +1,30 @@
+{
+  "name": "taskmanager",
+  "version": "1.0.0",
+  "description": "This is a task management web app built with express.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ryanmikleking/taskManager.git"
+  },
+  "keywords": [
+    "express",
+    "nodejs",
+    "javascript",
+    "task",
+    "management",
+    "project",
+    "management",
+    "software",
+    "development"
+  ],
+  "author": "Ryan M. King",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ryanmikleking/taskManager/issues"
+  },
+  "homepage": "https://github.com/ryanmikleking/taskManager#readme"
+}
